@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LabExam_02</string>
+    <string name="discover">Movie Mate</string>
+    <string name="favshow">Discover Your Favourite Show</string>
+    <string name="watch">Watch Now or Watch Later</string>
+    <string name="discription"> "Bringing the Magic of Movies to Your Screen, Anytime, Anywhere Experience Unlimited Entertainment at Your Fingertips"</string>
+    <string name="introbtn">Get Started</string>
+    <string name="login">Log In </string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="forgotpswd">Forgot Your Password</string>
+    <string name="loginbtn">Log In </string>
+    <string name="dntaccbtn">Do not have an account</string>
+    <string name="register">Register</string>
+    <string name="notebookdis">Noah, a poor man, falls in love with Allie who comes from wealth. They are forced to keep passion for each other aside due to societal pressure and a difference in the social stature of their families</string>
+    <string name="Actors">Actors</string>
+    <string name="Description">Summary</string>
+    <string name="time">1 hr 25 mins</string>
+    <string name="notbook">Note Boook</string>
+    <string name="searchmove">Search Movies.....</string>
+    <string name="moviemonth">Movie Of The Month</string>
+    <string name="bestmovies">Best Movies</string>
+    <string name="popular">Most Popular</string>
+    <string name="watchnow">Watch Now</string>
+    <string name="actorsdis">Release date :</string>
+    <string name="date">June 25, 2004 (USA)</string>
+    <string name="director">Director: </string>
+    <string name="dname">Nick Cassavetes</string>
+    <string name="distribute">Distributed by:</string>
+    <string name="newname">New Line Cinema</string>
+    <string name="adfrom">Adapted from:</string>
+    <string name="from">The Notebook</string>
+    <string name="boxoffice">Box Office :</string>
+    <string name="boxoffice1">$117.8 million</string>
+</resources>
